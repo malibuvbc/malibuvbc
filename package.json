@@ -1,11 +1,11 @@
 {
-    "title": "Business Casual",
-    "name": "startbootstrap-business-casual",
+    "title": "MalibuVBC",
+    "name": "malibuvbc",
     "version": "5.0.11",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A casual HTML website theme for businesses built with Bootstrap",
+    "description": "MalibuVBC",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/business-casual",
+    "homepage": "https://brandonjturner.github.io/malibuvbc/",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-business-casual/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://brandonjturner.github.io/malibuvbc/",
+        "email": "mizunocamps@hotmail.com "
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
+    "license": "x",
+    "author": "MalibuVBC",
     "contributors": [
-        "David Miller (https://davidmiller.io/)"
+        "Brandon J Turner ("https://www.brandonjturner.com/")
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-business-casual.git"
+        "url": "https://github.com/brandonjturner/malibuvbc"
     },
     "dependencies": {
         "bootstrap": "4.5.3",
