@@ -1,6 +1,7 @@
 {
     "title": "MalibuVBC",
     "name": "malibuvbc",
+    "url": "https://www.malibuvbc.com",
     "version": "5.0.11",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -17,7 +18,7 @@
     "homepage": "https://brandonjturner.github.io/malibuvbc/",
     "bugs": {
         "url": "https://brandonjturner.github.io/malibuvbc/",
-        "email": "mizunocamps@hotmail.com"
+        "email": "mizunocamps@hotmail.com "
     },
     "license": "x",
     "author": "MalibuVBC",
