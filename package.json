@@ -30,8 +30,12 @@
         "url": "https://github.com/brandonjturner/malibuvbc"
     },
     "dependencies": {
+        "atob": "^2.1.2",
         "bootstrap": "4.5.3",
-        "jquery": "3.5.1"
+        "jquery": "3.5.1",
+        "python": "0.0.4",
+        "python2": "0.0.1",
+        "stable": "^0.1.8"
     },
     "devDependencies": {
         "browser-sync": "2.26.13",
